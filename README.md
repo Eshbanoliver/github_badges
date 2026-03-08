@@ -1,1 +1,1 @@
-# github_badges readme chk
+# github_badges readme check
