@@ -1,2 +1,2 @@
 # github_badges readme check, this is a test repositery for use.
-testing purposely
+testing purposely in repo
