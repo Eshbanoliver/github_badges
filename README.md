@@ -53,7 +53,6 @@ Since this is a test repo, contributions are not required. However, you can:
 4. Submit a pull request
 
 
-
 ## 🙌 Acknowledgements
 
 Thanks for checking out this repository!
