@@ -52,9 +52,7 @@ Since this is a test repo, contributions are not required. However, you can:
 3. Make changes
 4. Submit a pull request
 
-## 📄 License
 
-This project is open-source and available under the MIT License.
 
 ## 🙌 Acknowledgements
 
